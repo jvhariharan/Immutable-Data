@@ -33,6 +33,9 @@ We run the test scripts with [Protractor](http://www.protractortest.org/#/) end-
 
 Protractor can interact with our web application and verify the test scripts.
 
+## Blog reference
+[How to Update Data Without Rerendering an Entire Grid in Angular](https://www.syncfusion.com/blogs/post/how-to-update-data-without-rerendering-an-entire-grid-in-angular.aspx)
+
 We have to install WebDriver and also need to ensure it is updated. Open a separate terminal and run the below npm script.
 
 ```
